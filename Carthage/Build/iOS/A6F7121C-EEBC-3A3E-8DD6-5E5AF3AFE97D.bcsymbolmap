@@ -1,0 +1,292 @@
+BCSymbolMap Version: 2.0
+__swift_FORCE_LOAD_$_swiftCompatibility50
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements
+_$s4Unio15AcceptableRelayP6acceptyy7ElementQzFTc
+_$sTA
+_symbolic $s4Unio15AcceptableRelayP
+_$s4Unio15AcceptableRelay_pMF
+_$s4UnioMXM
+__swift_FORCE_LOAD_$_swiftCompatibility50_$_Unio
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements_$_Unio
+_symbolic x
+_symbolic Bp
+_symbolic B0
+___swift_reflection_version
+Apple clang version 11.0.0 (clang-1100.0.33.7)
+<swift-imported-modules>
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio
+Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/RxTypes/AcceptableRelay.swift
+$sTA
+<compiler-generated>
+objectdestroy
+accept
+_$s7RxRelay08BehaviorB0CyxG4Unio0cB4TypeAEWI
+_$s7RxRelay08BehaviorB0CyxG4Unio15ValueAccessibleA2eFP5value7ElementQzvgTW
+_$s7RxRelay08BehaviorB0CyxG4Unio07PublishB4TypeAEWI
+_$s7RxRelay08BehaviorB0CyxG4Unio010AcceptableB0A2eFP6acceptyy7ElementQzFTW
+_$s7RxRelay08BehaviorB0CyxG4Unio0cB4TypeAEWp
+_$s7RxRelay08BehaviorB0CyxG4Unio15ValueAccessibleAEWp
+_$s7RxRelay08BehaviorB0CyxG4Unio07PublishB4TypeAEWp
+_$s7RxRelay08BehaviorB0CyxG4Unio010AcceptableB0AEWp
+_symbolic $s4Unio17BehaviorRelayTypeP
+_$s4Unio17BehaviorRelayType_pMF
+_symbolic 7RxRelay08BehaviorB0C
+_symbolic $s4Unio15ValueAccessibleP
+_$s7RxRelay08BehaviorB0CyxG4Unio15ValueAccessibleAEMA
+_$s7RxRelay08BehaviorB0CyxG4Unio010AcceptableB0AEMA
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/RxTypes/BehaviorRelayType.swift
+$s7RxRelay08BehaviorB0CyxG4Unio07PublishB4TypeAEWI
+value.get
+$s7RxRelay08BehaviorB0CyxG4Unio0cB4TypeAEWI
+_$s7RxSwift15BehaviorSubjectCyxG4Unio0cD4TypeAEWI
+_$s7RxSwift15BehaviorSubjectCyxG4Unio24ThrowableValueAccessibleA2eFP09throwableG07ElementQzyKFTW
+_$s7RxSwift15BehaviorSubjectCyxG4Unio0cD4TypeAEWp
+_$s7RxSwift15BehaviorSubjectCyxG4Unio24ThrowableValueAccessibleAEWp
+_symbolic $s4Unio19BehaviorSubjectTypeP
+_$s4Unio19BehaviorSubjectType_pMF
+_symbolic 7RxSwift15BehaviorSubjectC
+_symbolic $s4Unio24ThrowableValueAccessibleP
+_$s7RxSwift15BehaviorSubjectCyxG4Unio24ThrowableValueAccessibleAEMA
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/RxTypes/BehaviorSubjectType.swift
+throwableValue
+$s7RxSwift15BehaviorSubjectCyxG4Unio0cD4TypeAEWI
+_$s4Unio10DependencyC5input5state5extraACyxq_q0_Gx_q_q0_tcfC
+_$s4Unio10DependencyC5input5state5extraACyxq_q0_Gx_q_q0_tcfc
+_$s4Unio17ObservableWrapperCyACyxGxcfC
+_$s4Unio10DependencyCMi
+_$s4Unio10DependencyCMr
+_$s4Unio10DependencyCMI
+_symbolic q_
+_symbolic q0_
+_$s4Unio10DependencyCMP
+_symbolic _____ 4Unio10DependencyC
+_symbolic 4Unio17ObservableWrapperCyxG
+_$s4Unio10DependencyCMF
+_$s4Unio10DependencyC5input5state5extraACyxq_q0_Gx_q_q0_tcfCTq
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/Dependency.swift
+$s4Unio10DependencyCMa
+$s4Unio10DependencyCMr
+$s4Unio10DependencyCMi
+deinit
+inputObservable
+init
+inputObservables.get
+extra.get
+state.get
+_symbolic $s4Unio9ExtraTypeP
+_$s4Unio9ExtraType_pMF
+_$s4Unio7NoExtraVMf
+_symbolic _____ 4Unio7NoExtraV
+_$s4Unio7NoExtraVMF
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/ExtraType.swift
+$s4Unio7NoExtraVMa
+_symbolic $s4Unio9InputTypeP
+_$s4Unio9InputType_pMF
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/InputType.swift
+_symbolic $s4Unio9LogicTypeP
+_$s4Unio9LogicType_pMF
+_symbolic 5Extra_____Qz 4Unio9LogicTypeP
+_symbolic 5Input_____Qz 4Unio9LogicTypeP
+_symbolic 6Output_____Qz 4Unio9LogicTypeP
+_symbolic 5State_____Qz 4Unio9LogicTypeP
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/LogicType.swift
+_symbolic $s4Unio10OutputTypeP
+_$s4Unio10OutputType_pMF
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/OutputType.swift
+_$s4Unio17PrimitivePropertyC5value14throwableValue12asObservableACyxq_Gxyc_xyKc7RxSwift0H0CyxGyctc33_70CE14F64B269E0426AB7E20825DB102LlfC
+_$s4Unio17PrimitivePropertyCyxq_G7RxSwift25ObservableConvertibleTypeAaeFP02asF0AE0F0Cy7ElementQzGyFTW
+_$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufC
+_$s4Unio17PrimitivePropertyCyxq_GAA15ValueAccessibleAAs5NeverORs_rlAaEP5value7ElementQzvgTW
+_$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufC
+_$s4Unio17PrimitivePropertyCyxq_GAA24ThrowableValueAccessibleAAs5Error_pRs_rlAaEP09throwableE07ElementQzyKFTW
+_$s4Unio17PrimitivePropertyCMi
+_$s4Unio17PrimitivePropertyCMr
+_$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcxycfU_TA
+_$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcxyKcfU0_TA
+_$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcAN0M0CyxGycfU1_TA
+_$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcxycfU_TA
+_$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcxycfU0_TA
+_$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcAO0M0CyxGycfU1_TA
+_$s4Unio17PrimitivePropertyCyxq_G7RxSwift25ObservableConvertibleTypeAAWp
+_$s4Unio17PrimitivePropertyCyxq_GAA15ValueAccessibleAAs5NeverORs_rlWp
+_$s4Unio17PrimitivePropertyCyxq_GAA24ThrowableValueAccessibleAAs5Error_pRs_rlWp
+_$s4Unio17PrimitivePropertyC6_value33_70CE14F64B269E0426AB7E20825DB102LLxycvpWvd
+_$s4Unio17PrimitivePropertyC15_throwableValue33_70CE14F64B269E0426AB7E20825DB102LLxyKcvpWvd
+_$s4Unio17PrimitivePropertyC13_asObservable33_70CE14F64B269E0426AB7E20825DB102LL7RxSwift0E0CyxGycvpWvd
+_$s4Unio17PrimitivePropertyCMI
+_$s4Unio17PrimitivePropertyCMP
+_symbolic _____ 4Unio17PrimitivePropertyC
+_symbolic xyc
+_symbolic xyKc
+_symbolic 7RxSwift10ObservableCyxGyc
+_$s4Unio17PrimitivePropertyCMF
+_symbolic qd__
+_symbolic B1
+_symbolic qd_0_
+_symbolic B2
+_symbolic qd_0_z_x_s5Error_pqd__qd_0_7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszsAA_pRs_4Unio06OutputG0Rd__AcDRd_0_AG24ThrowableValueAccessibleRd_0_r0_0_lXX
+_symbolic qd_0_z_x_s5NeverOqd__qd_0_7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszABRs_4Unio06OutputG0Rd__AdERd_0_AH15ValueAccessibleRd_0_r0_0_lXX
+_symbolic 4Unio17PrimitivePropertyC
+_symbolic $s7RxSwift25ObservableConvertibleTypeP
+_$s4Unio17PrimitivePropertyCyxq_G7RxSwift25ObservableConvertibleTypeAAMA
+_$s4Unio17PrimitivePropertyCyxq_GAA15ValueAccessibleAAs5NeverORs_rlMA
+_symbolic s5NeverO
+_$s4Unio17PrimitivePropertyCyxq_GAA24ThrowableValueAccessibleAAs5Error_pRs_rlMA
+_symbolic s5Error_p
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/PrimitiveProperty.swift
+objectdestroy.14
+$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcxycfU0_TA
+$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcxycfU0_
+objectdestroy.11
+$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcxycfU_TA
+$s4Unio17PrimitivePropertyCAAs5NeverORs_rlE_3forACyxAEGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AoPRd_0_AA15ValueAccessibleRd_0_r0_lufcxycfU_
+$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcAN0M0CyxGycfU1_TA
+$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcAN0M0CyxGycfU1_
+$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcxyKcfU0_TA
+$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcxyKcfU0_
+$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcxycfU_TA
+$s4Unio17PrimitivePropertyCAAs5Error_pRs_rlE_3forACyxsAD_pGAA13OutputWrapperCyqd__G_s7KeyPathCyqd__qd_0_Gtc7Element7RxSwift25ObservableConvertibleTypePQyd_0_RszAA0fO0Rd__AnORd_0_AA24ThrowableValueAccessibleRd_0_r0_lufcxycfU_
+$s4Unio17PrimitivePropertyCMa
+$s4Unio17PrimitivePropertyCMr
+$s4Unio17PrimitivePropertyCMi
+asObservable
+_$s7RxRelay07PublishB0CyxG4Unio0cB4TypeAEWI
+_$s7RxRelay07PublishB0CyxG4Unio010AcceptableB0A2eFP6acceptyy7ElementQzFTW
+_$s7RxRelay07PublishB0CyxG4Unio0cB4TypeAEWp
+_$s7RxRelay07PublishB0CyxG4Unio010AcceptableB0AEWp
+_symbolic $s4Unio16PublishRelayTypeP
+_$s4Unio16PublishRelayType_pMF
+_symbolic 7RxRelay07PublishB0C
+_$s7RxRelay07PublishB0CyxG4Unio010AcceptableB0AEMA
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/RxTypes/PublishRelayType.swift
+$s7RxRelay07PublishB0CyxG4Unio0cB4TypeAEWI
+_symbolic $s4Unio9StateTypeP
+_$s4Unio9StateType_pMF
+_$s4Unio7NoStateVMf
+_symbolic _____ 4Unio7NoStateV
+_$s4Unio7NoStateVMF
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/StateType.swift
+$s4Unio7NoStateVMa
+_$s4Unio0A6StreamCMi
+_$s4Unio0A6StreamCMr
+_$s4Unio0A6StreamCMI
+_$s4Unio0A6StreamCMP
+_symbolic _____ 4Unio0A6StreamC
+_symbolic 4Unio12InputWrapperCy0B0AA9LogicTypePQzG
+_symbolic 4Unio13OutputWrapperCy0B0AA9LogicTypePQzG
+_symbolic 5State4Unio9LogicTypePQz
+_symbolic 5Extra4Unio9LogicTypePQz
+_$s4Unio0A6StreamCMF
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/UnioStream.swift
+$s4Unio0A6StreamCMr
+$s4Unio0A6StreamCMi
+$s4Unio0A6StreamCMa
+output.get
+input.get
+_$s4Unio15ValueAccessible_pMF
+_$s4Unio24ThrowableValueAccessible_pMF
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/RxTypes/ValueAccessible.swift
+_$s4Unio12InputWrapperCyACyxGxcfCTm
+_$s4Unio12InputWrapperC6accept3for7RxSwift11AnyObserverVy7ElementQyd__Gs7KeyPathCyxqd__G_tAA15AcceptableRelayRd__lFTm
+_$s4Unio12InputWrapperC13dynamicMember7RxSwift11AnyObserverVy7ElementQyd__Gs7KeyPathCyxqd__G_tcAA15AcceptableRelayRd__luigyAE5EventOyAIGcfU_
+_$s4Unio12InputWrapperC13dynamicMember7RxSwift11AnyObserverVy7ElementQyd__Gs7KeyPathCyxqd__G_tcAA15AcceptableRelayRd__luigyAE5EventOyAIGcfU_TA
+_$s4Unio17ObservableWrapperCyACyxGxcfc
+_$s4Unio12InputWrapperCMi
+_$s4Unio12InputWrapperCMr
+_$s4Unio13OutputWrapperCMi
+_$s4Unio17ObservableWrapperCMi
+_$s4Unio17ObservableWrapperCMr
+_$s7ElementQyd__s5Error_pIgnzo_ABytsAC_pIegnrzo_4Unio9InputTypeRzAD15AcceptableRelayRd__r__lTRTA
+_$s7Element4Unio15AcceptableRelayPQyd__SgAB9InputTypeRzAbCRd__r__lWOh
+_$s4Unio13OutputWrapperCMr
+_symbolic qd__z_x_qd__4Unio9InputTypeRzAA15AcceptableRelayRd__r__lXX
+_$ss5Error_pML
+_$s4Unio12InputWrapperCMI
+_$s4Unio12InputWrapperCMP
+_symbolic _____ 4Unio12InputWrapperC
+_$s4Unio12InputWrapperCMF
+_$s4Unio13OutputWrapperCMI
+_$s4Unio13OutputWrapperCMP
+_symbolic _____ 4Unio13OutputWrapperC
+_$s4Unio13OutputWrapperCMF
+_$s4Unio17ObservableWrapperCMI
+_$s4Unio17ObservableWrapperCMP
+_symbolic _____ 4Unio17ObservableWrapperC
+_$s4Unio17ObservableWrapperCMF
+_$s4Unio17ObservableWrapperCyACyxGxcfCTq
+/Users/kitakitsune/Documents/github.com/KokiHirokawa/FullScreen/Carthage/Checkouts/Unio/Unio/Wrappers.swift
+$s7Element4Unio15AcceptableRelayPQyd__SgAB9InputTypeRzAbCRd__r__lWOh
+$s7ElementQyd__s5Error_pIgnzo_ABytsAC_pIegnrzo_4Unio9InputTypeRzAD15AcceptableRelayRd__r__lTRTA
+$s7ElementQyd__s5Error_pIgnzo_ABytsAC_pIegnrzo_4Unio9InputTypeRzAD15AcceptableRelayRd__r__lTR
+$s4Unio17ObservableWrapperCMa
+$s4Unio17ObservableWrapperCMr
+$s4Unio17ObservableWrapperCMi
+$s4Unio13OutputWrapperCMi
+$s4Unio12InputWrapperCMr
+$s4Unio12InputWrapperCMi
+subscript.get
+property
+$ss5Error_pMa
+value
+observable
+$s4Unio12InputWrapperC13dynamicMember7RxSwift11AnyObserverVy7ElementQyd__Gs7KeyPathCyxqd__G_tcAA15AcceptableRelayRd__luigyAE5EventOyAIGcfU_TA
+$s4Unio12InputWrapperC13dynamicMember7RxSwift11AnyObserverVy7ElementQyd__Gs7KeyPathCyxqd__G_tcAA15AcceptableRelayRd__luigyAE5EventOyAIGcfU_
+onEvent
+$s4Unio13OutputWrapperCMa
+$s4Unio12InputWrapperCMa
+Apple clang version 11.0.0 (clang-1100.0.33.8)
+/Users/kitakitsune/Library/Caches/org.carthage.CarthageKit/DerivedData/11.0_11A420a/Unio/0.5.0/Build/Intermediates.noindex/ArchiveIntermediates/Unio/IntermediateBuildFilesPath/Unio.build/Release-iphoneos/Unio.build/DerivedSources/Unio_vers.c
+_swift_getFunctionReplacement50
+_swift_getOrigOfReplaceable50
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/bin/clang-11 --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/CompatibilityDynamicReplacements -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/CompatibilityDynamicReplacements -I include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/llvm/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/llvm/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/cmark/src -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -fno-sanitize=all -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -O2 -D NDEBUG -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fno-exceptions -fno-rtti -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -Wall -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibilityDynamicReplacements -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk -arch arm64 -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/Library/Frameworks -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -MD -MT stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -MF stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o.d -o stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -c /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=512.4 -stdlib=libc++
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/swift-macosx-x86_64
+swift_getOrigOfReplaceable50
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+/BuildRoot/Library/Caches/com.apple.xbs
+swift_getFunctionReplacement50
+__ZN5swift17getRootSuperclassEv
+__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E
+__ZL24registerAddImageCallbackPv
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvENUlPvE_8__invokeES1_
+__ZL16addImageCallbackPK11mach_headerl
+__ZZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_EE5token
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvE7TheLazy
+__ZL27ProtocolConformancesSection
+_DummyTargetContextDescriptor
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/bin/clang-11 --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50 -I include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/llvm/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/llvm/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/cmark/src -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -fno-sanitize=all -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -O2 -D NDEBUG -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fno-exceptions -fno-rtti -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -Wall -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk -arch arm64 -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/Library/Frameworks -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/ProtocolConformance.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/ProtocolConformance.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/ProtocolConformance.cpp.o -c /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=512.4 -stdlib=libc++
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp
+addImageCallback
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp
+_getTypeDescriptorLocation
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/include/swift/ABI/Metadata.h
+get
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/include/swift/Basic/RelativePointer.h
+getTypeKind
+getTypeReferenceKind
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/include/swift/ABI/MetadataValues.h
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<swift::TargetProtocolConformanceDescriptor<swift::InProcess>, false, int>, int>
+__invoke
+operator()
+registerAddImageCallback
+swift50override_conformsToProtocol
+_swift50override_class_getSuperclass
+getMetadataForClass
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50/../../public/runtime/Private.h
+dyn_cast<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+Sources/swiftlang/swiftlang-1100.0.270.13/llvm/include/llvm/Support/Casting.h
+isa<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+doit
+classof
+getKind
+getEnumeratedMetadataKind
+classHasSuperclass
+getClassObject
+CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/usr/include/dispatch/once.h
+/BuildRoot
+getRootSuperclass
+Sources/swiftlang/swiftlang-1100.0.270.13/swift/include/swift/Basic/Lazy.h
+_Overrides
+/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/bin/clang-11 --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50 -I include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/llvm/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/llvm/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/cmark/src -I /BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -fno-sanitize=all -D LLVM_DISABLE_ABI_BREAKING_CHECKS_ENFORCING=1 -O2 -D NDEBUG -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -fno-exceptions -fno-rtti -Wall -Wglobal-constructors -Wexit-time-destructors -fvisibility=hidden -Wall -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk -arch arm64 -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/Library/Frameworks -F/BuildRoot/CrossTrain_SwiftOverlays/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -c /BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50/Overrides.cpp -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=512.4 -stdlib=libc++
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1100.0.270.13/swift/stdlib/toolchain/Compatibility50/Overrides.cpp

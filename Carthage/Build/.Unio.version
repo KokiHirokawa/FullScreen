@@ -1,0 +1,10 @@
+{
+  "commitish" : "0.5.0",
+  "iOS" : [
+    {
+      "name" : "Unio",
+      "hash" : "fe7bae8f8162797253eb83eb874c333d8639008aeab52b546d52ddbbc4806d2d",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}

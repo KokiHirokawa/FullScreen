@@ -1,0 +1,11 @@
+framework module Unio {
+  umbrella header "Unio.h"
+
+  export *
+  module * { export * }
+}
+
+module Unio.Swift {
+    header "Unio-Swift.h"
+    requires objc
+}
