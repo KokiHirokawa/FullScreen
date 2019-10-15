@@ -7,22 +7,34 @@ final class PlayerViewController: UIViewController {
     let viewStream: PlayerViewStreamType = PlayerViewStream()
     private let disposeBag = DisposeBag()
 
-    private lazy var playerView: UIView = {
-        let view = UIView(frame: .zero)
+    private lazy var playerView: UIImageView = {
+        let view = UIImageView(frame: .zero)
         view.translatesAutoresizingMaskIntoConstraints = false
-        view.backgroundColor = .gray
+        view.isUserInteractionEnabled = true
+        view.image = UIImage(named: Const.imageName)
+        view.contentMode = .scaleAspectFill
+        view.clipsToBounds = true
 
-        let doubleTapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(didDoubleTap(_:)))
+        let doubleTapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(didDoubleTapPlayerView(_:)))
         doubleTapGestureRecognizer.numberOfTapsRequired = 2
         view.addGestureRecognizer(doubleTapGestureRecognizer)
+
+        let pinchGestureRecognizer = UIPinchGestureRecognizer(target: self, action: #selector(didPinchPlayerView(_:)))
+        view.addGestureRecognizer(pinchGestureRecognizer)
 
         return view
     }()
 
-    private lazy var defaultPlayerViewConstraints = [playerView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
+    private lazy var smallPlayerViewConstraints = [playerView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
                                                      playerView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor),
                                                      playerView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor),
                                                      playerView.heightAnchor.constraint(equalTo: view.widthAnchor, multiplier: 9 / 16)]
+
+    private lazy var largePlayerViewConstraints = [playerView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+                                                   playerView.centerYAnchor.constraint(equalTo: view.centerYAnchor),
+                                                   playerView.topAnchor.constraint(equalTo: view.topAnchor),
+                                                   playerView.bottomAnchor.constraint(equalTo: view.bottomAnchor),
+                                                   playerView.widthAnchor.constraint(equalTo: view.heightAnchor, multiplier: 16 / 9)]
 
     private lazy var widePlayerViewConstraints = [playerView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
                                                   playerView.centerYAnchor.constraint(equalTo: view.centerYAnchor),
@@ -55,15 +67,36 @@ final class PlayerViewController: UIViewController {
         viewStream.input.accept(UIDevice.current.orientation, for: \.traitCollectionDidChange)
     }
 
-    @objc private func didDoubleTap(_ sender: UITapGestureRecognizer) {
+    @objc private func didPinchPlayerView(_ sender: UIPinchGestureRecognizer) {
+
+    }
+
+    @objc private func didDoubleTapPlayerView(_ sender: UITapGestureRecognizer) {
         viewStream.input.accept((), for: \.didDoubleTapPlayerView)
     }
 
     private func changePlayerViewFrame(_ size: PlayerViewStream.PlayerViewSize) {
         UIView.animate(withDuration: 0.3) { [weak self] in
             switch size {
-            case .small, .large:
-                self?.defaultPlayerViewConstraints.forEach {
+            case .small:
+                self?.smallPlayerViewConstraints.forEach {
+                    $0.priority = UILayoutPriority(999)
+                    $0.isActive = true
+                }
+                self?.largePlayerViewConstraints.forEach {
+                    $0.priority = UILayoutPriority(1)
+                    $0.isActive = false
+                }
+                self?.widePlayerViewConstraints.forEach {
+                    $0.priority = UILayoutPriority(1)
+                    $0.isActive = false
+                }
+            case .large:
+                self?.smallPlayerViewConstraints.forEach {
+                    $0.priority = UILayoutPriority(1)
+                    $0.isActive = false
+                }
+                self?.largePlayerViewConstraints.forEach {
                     $0.priority = UILayoutPriority(999)
                     $0.isActive = true
                 }
@@ -72,7 +105,11 @@ final class PlayerViewController: UIViewController {
                     $0.isActive = false
                 }
             case .full:
-                self?.defaultPlayerViewConstraints.forEach {
+                self?.smallPlayerViewConstraints.forEach {
+                    $0.priority = UILayoutPriority(1)
+                    $0.isActive = false
+                }
+                self?.largePlayerViewConstraints.forEach {
                     $0.priority = UILayoutPriority(1)
                     $0.isActive = false
                 }
@@ -84,5 +121,11 @@ final class PlayerViewController: UIViewController {
 
             self?.view.layoutIfNeeded()
         }
+    }
+}
+
+extension PlayerViewController {
+    enum Const {
+        static let imageName = "sea"
     }
 }
